@@ -1,0 +1,17 @@
+{
+    "name": "iphper/stdin",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Stdin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "iphper",
+            "email": "iguoping@qq.com"
+        }
+    ],
+    "require": {}
+}
